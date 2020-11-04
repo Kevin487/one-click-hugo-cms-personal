@@ -7,7 +7,7 @@ blurb:
     text: "My combination of passions have been found in economics and business, which computer science supports. I have followed strategies and concepts of becoming independent and financially free. My information will support people interested in Ecomerce, trading stocks, computer science, and social media influence. "
 intro:
     heading: "What I offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    text: "LiveLikeKevin.Com will be the convenient location to find out about personal interests that align with mine. People that vibe with my transparency and my posts will be people that I wish to encourage and support. Disappointment is one thing that you will not experience from keeping in touch with me."
 products:
     - image: img/illustrations-coffee.svg
       text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
