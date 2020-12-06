@@ -1,8 +1,8 @@
 ---
-title: Our Coffee
+title: Resume
 type: products
 image: /img/products-jumbotron.jpg
-heading: What we offer
+heading: GPA 3.8/4.0 Expected Graduation May 2023
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -98,5 +98,3 @@ pricing:
       plan: Custom
       price: '?'
 ---
-
-
